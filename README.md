@@ -59,7 +59,6 @@ Convertirme en un ingeniero capaz de desarrollar soluciones tecnológicas que ge
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,tensorflow" />
 </p>
----
 
 # 📊 Estadísticas de GitHub
 
