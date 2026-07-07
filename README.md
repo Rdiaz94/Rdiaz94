@@ -142,3 +142,78 @@ Mi objetivo es convertirme en un ingeniero capaz de diseñar soluciones tecnoló
 - 🔐 Especializarme en Ciberseguridad.
 - 🤖 Desarrollar soluciones con Inteligencia Artificial.
 - 🌍 Contribuir a proyectos Open Source.
+---
+
+# 📂 Proyectos Destacados
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🏥 Sistema de Gestión Hospitalaria
+
+Aplicación orientada a la administración de pacientes, consultas y registros médicos.
+
+**Tecnologías**
+
+`Java` `SQL Server`
+
+</td>
+
+<td width="50%">
+
+## 🖥️ Infraestructura Virtualizada
+
+Proyecto de implementación de servidores virtuales para servicios de red y administración.
+
+**Tecnologías**
+
+`Windows Server` `VirtualBox`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📊 ETL para Datos de Salud
+
+Procesamiento y transformación de datos abiertos utilizando Python.
+
+**Tecnologías**
+
+`Python` `Pandas`
+
+</td>
+
+<td width="50%">
+
+## 🌐 Portafolio Web
+
+Sitio web personal desarrollado como práctica de desarrollo web moderno.
+
+**Tecnologías**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+</tr>
+
+</table>
+---
+
+# 📫 Contacto
+
+<p align="left">
+
+📧 **Correo:** *royerdiaz94@outlook.com*
+
+💼 **LinkedIn:** *:-)*
+
+🌍 **Ubicación:** Cajamarca, Perú 🇵🇪
+
+</p>
