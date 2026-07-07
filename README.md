@@ -283,3 +283,12 @@ Proyecto de Computación Gráfica desarrollado en C++ y OpenGL.
 </i>
 
 </p>
+<p align="center">
+
+<i>
+
+Contacto: royerdiaz94@outlook.com
+
+</i>
+
+</p>
