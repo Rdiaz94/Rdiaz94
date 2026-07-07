@@ -60,20 +60,20 @@ Convertirme en un ingeniero capaz de desarrollar soluciones tecnológicas que ge
   <img src="https://skillicons.dev/icons?i=aws,azure,tensorflow" />
 </p>
 
+---
+
 # 📊 Estadísticas de GitHub
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rdiaz94&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdiaz94&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rdiaz94&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdiaz94&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
-## 🔥 Racha de Contribuciones
+
+---
+
+# 🔥 Racha de Contribuciones
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rdiaz94&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Rdiaz94&theme=tokyonight&hide_border=true"/>
 </p>
 
