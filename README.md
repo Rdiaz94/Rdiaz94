@@ -24,8 +24,10 @@ Convertirme en un ingeniero capaz de desarrollar soluciones tecnológicas que ge
 
 ### 💻 Lenguajes de Programación
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ### 🌐 Desarrollo Web
