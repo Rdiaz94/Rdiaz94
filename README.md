@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=950&lines=💻+Desarrollador+en+formación;🐍+Apasionado+por+Python+y+Java;🗄️+Amante+de+las+Bases+de+Datos;🔐+Aprendiendo+Ciberseguridad+y+Cloud;🤖+Explorando+Inteligencia+Artificial;🚀+Construyendo+proyectos+todos+los+días" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hola,+soy+Royer+Diaz+Montoya;Estudiante+de+Ingenieria+de+Sistemas;Desarrollador+Full+Stack+en+formacion;Python+-+Java+-+SQL+Server;Cloud+-+IA+-+Ciberseguridad" />
 </p>
 
 ---
@@ -86,20 +86,5 @@ Convertirme en un ingeniero capaz de diseñar, desarrollar e implementar solucio
 - 🔄 Desarrollar proyectos con Inteligencia Artificial
 - 🔄 Contribuir a proyectos Open Source
 - 🔄 Obtener certificaciones tecnológicas
-████████████████████████████
-
-PORTADA
-
-👋 Hola soy Royer
-
-Typing Animation
-
-Sobre mí
-
-Tecnologías
-
-Objetivos
-
-████████████████████████████
 
 
