@@ -4,7 +4,7 @@
 # 👋 Hola, soy Royer Díaz Montoya
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=👨‍💻+Estudiante+de+Ingeniería+de+Sistemas+Computacionales;💡+Apasionado+por+el+desarrollo+de+software;🔐+Aprendiendo+Ciberseguridad+y+Cloud;🤖+Explorando+Inteligencia+Artificial;🚀+Construyendo+proyectos+todos+los+días" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=1000&lines=👋+¡Hola!+Soy+Royer+Díaz+Montoya;💻+Estudiante+de+Ingeniería+de+Sistemas+Computacionales;🚀+Desarrollador+en+formación;🐍+Apasionado+por+Python,+Java+y+SQL+Server;☁️+Aprendiendo+Cloud,+IA+y+Ciberseguridad;📚+Aprender,+crear+y+compartir+es+mi+meta" alt="Typing SVG" />
 </p>
 
 🎓 Estudiante de Ingeniería de Sistemas Computacionales
@@ -25,6 +25,14 @@
 Convertirme en un ingeniero capaz de desarrollar soluciones tecnológicas que generen impacto en la sociedad.
 
 ## 🚀 Tecnologías y Herramientas
+
+---
+
+# 🏆 Logros en GitHub
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rdiaz94&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ### 💻 Lenguajes de Programación
 
