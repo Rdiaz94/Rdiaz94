@@ -18,7 +18,7 @@
 
 <p align="center">
 
-🇵🇪 Cajamarca • Perú
+  🇵🇪 Cajamarca • Perú
 
 </p>
 
