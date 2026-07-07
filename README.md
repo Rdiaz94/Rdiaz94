@@ -3,8 +3,19 @@
 </p>
 # 👋 Hola, soy Royer Díaz Montoya
 
-💻 Estudiante de Ingeniería de Sistemas Computacionales
-📍 Perú 🇵🇪
-🚀 Apasionado por el desarrollo de software, ciberseguridad, bases de datos e inteligencia artificial.
+🎓 Estudiante de Ingeniería de Sistemas Computacionales
 
-> "Siempre aprendiendo algo nuevo."
+💻 Actualmente aprendiendo:
+
+- Python
+- Java
+- C#
+- SQL Server
+- Linux
+- Redes
+- Ciberseguridad
+- Inteligencia Artificial
+
+## 🚀 Mi objetivo
+
+Convertirme en un ingeniero capaz de desarrollar soluciones tecnológicas que generen impacto en la sociedad.
