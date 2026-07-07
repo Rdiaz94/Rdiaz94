@@ -3,6 +3,10 @@
 </p>
 # 👋 Hola, soy Royer Díaz Montoya
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=👨‍💻+Estudiante+de+Ingeniería+de+Sistemas+Computacionales;💡+Apasionado+por+el+desarrollo+de+software;🔐+Aprendiendo+Ciberseguridad+y+Cloud;🤖+Explorando+Inteligencia+Artificial;🚀+Construyendo+proyectos+todos+los+días" />
+</p>
+
 🎓 Estudiante de Ingeniería de Sistemas Computacionales
 
 💻 Actualmente aprendiendo:
@@ -60,20 +64,5 @@ Convertirme en un ingeniero capaz de desarrollar soluciones tecnológicas que ge
   <img src="https://skillicons.dev/icons?i=aws,azure,tensorflow" />
 </p>
 
----
 
-# 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rdiaz94&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdiaz94&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
----
-
-# 🔥 Racha de Contribuciones
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rdiaz94&theme=tokyonight&hide_border=true"/>
-</p>
 
