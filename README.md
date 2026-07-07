@@ -143,33 +143,48 @@ Mi objetivo es convertirme en un ingeniero capaz de diseñar soluciones tecnoló
 - 🤖 Desarrollar soluciones con Inteligencia Artificial.
 - 🌍 Contribuir a proyectos Open Source.
 ---
+---
 
-# 📂 Proyectos Destacados
+<h2 align="center">📊 Mi Stack Tecnológico</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,html,css,javascript,mysql,postgres,git,github,vscode,visualstudio,docker,linux,windows,aws,azure"/>
+
+</p>
+
+---
+<h2 align="center">🚀 Proyectos Destacados</h2>
 
 <table>
+
 <tr>
 
 <td width="50%">
 
-## 🏥 Sistema de Gestión Hospitalaria
+### 🏥 Sistema de Gestión Hospitalaria
 
-Aplicación orientada a la administración de pacientes, consultas y registros médicos.
+Aplicación para administrar pacientes, historias clínicas y consultas.
 
 **Tecnologías**
 
-`Java` `SQL Server`
+`Java`
+
+`SQL Server`
 
 </td>
 
 <td width="50%">
 
-## 🖥️ Infraestructura Virtualizada
+### 🖥️ Infraestructura Virtualizada
 
-Proyecto de implementación de servidores virtuales para servicios de red y administración.
+Implementación de Active Directory, DNS, DHCP, IIS y políticas de grupo.
 
 **Tecnologías**
 
-`Windows Server` `VirtualBox`
+`Windows Server`
+
+`VirtualBox`
 
 </td>
 
@@ -179,41 +194,92 @@ Proyecto de implementación de servidores virtuales para servicios de red y admi
 
 <td width="50%">
 
-## 📊 ETL para Datos de Salud
+### 📊 ETL Salud BI
 
-Procesamiento y transformación de datos abiertos utilizando Python.
+Procesamiento y limpieza de datos abiertos usando Python.
 
 **Tecnologías**
 
-`Python` `Pandas`
+`Python`
+
+`Pandas`
 
 </td>
 
 <td width="50%">
 
-## 🌐 Portafolio Web
+### 🎮 OpenGL Visualizer
 
-Sitio web personal desarrollado como práctica de desarrollo web moderno.
+Proyecto de Computación Gráfica desarrollado en C++ y OpenGL.
 
 **Tecnologías**
 
-`HTML` `CSS` `JavaScript`
+`C++`
+
+`OpenGL`
 
 </td>
 
 </tr>
 
 </table>
+
 ---
+<h2 align="center">📚 Actualmente aprendiendo</h2>
 
-# 📫 Contacto
+```text
+🐍 Python             ██████████░ 90%
 
-<p align="left">
+☕ Java               █████████░░ 85%
 
-📧 **Correo:** *royerdiaz94@outlook.com*
+🗄 SQL Server         █████████░░ 85%
 
-💼 **LinkedIn:** *:-)*
+☁ Cloud              ███████░░░░ 70%
 
-🌍 **Ubicación:** Cajamarca, Perú 🇵🇪
+🔐 Ciberseguridad     ██████░░░░░ 60%
+
+🤖 IA                 ██████░░░░░ 60%
+
+🐧 Linux              █████████░░ 85%
+```
+
+---
+<h2 align="center">🎯 Objetivos 2026</h2>
+
+- 🎓 Finalizar mi carrera.
+
+- 💼 Conseguir prácticas profesionales.
+
+- ☁ Certificarme en Cloud.
+
+- 🔐 Especializarme en Ciberseguridad.
+
+- 🤖 Crear proyectos con IA.
+
+- 🌍 Contribuir a Open Source.
+
+---
+<h2 align="center">🐍 Mis Contribuciones</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Rdiaz94/Rdiaz94/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+<h3 align="center">
+
+💙 Gracias por visitar mi perfil
+
+</h3>
+
+<p align="center">
+
+<i>
+
+"El conocimiento crece cuando se comparte."
+
+</i>
 
 </p>
