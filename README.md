@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="portada.png" width="100%">
+</p>
 # 👋 Hola, soy Royer Díaz Montoya
 
 💻 Estudiante de Ingeniería de Sistemas Computacionales
