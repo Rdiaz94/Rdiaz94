@@ -1,76 +1,105 @@
 <p align="center">
-  <img src="portada.png" width="100%">
+  <img src="portada.png" width="100%" alt="Banner de Royer Díaz Montoya"/>
 </p>
-# 👋 Hola, soy Royer Díaz Montoya
+
+<h1 align="center">
+👋 ¡Hola! Soy Royer Díaz Montoya
+</h1>
+
+<h3 align="center">
+🎓 Estudiante de Ingeniería de Sistemas Computacionales • Perú 🇵🇪
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=1000&lines=👋+¡Hola!+Soy+Royer+Díaz+Montoya;💻+Estudiante+de+Ingeniería+de+Sistemas+Computacionales;🚀+Desarrollador+en+formación;🐍+Apasionado+por+Python,+Java+y+SQL+Server;☁️+Aprendiendo+Cloud,+IA+y+Ciberseguridad;📚+Aprender,+crear+y+compartir+es+mi+meta" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=950&lines=💻+Desarrollador+en+formación;🐍+Apasionado+por+Python+y+Java;🗄️+Amante+de+las+Bases+de+Datos;🔐+Aprendiendo+Ciberseguridad+y+Cloud;🤖+Explorando+Inteligencia+Artificial;🚀+Construyendo+proyectos+todos+los+días" alt="Typing SVG"/>
 </p>
-
-🎓 Estudiante de Ingeniería de Sistemas Computacionales
-
-💻 Actualmente aprendiendo:
-
-- Python
-- Java
-- C#
-- SQL Server
-- Linux
-- Redes
-- Ciberseguridad
-- Inteligencia Artificial
-
-## 🚀 Mi objetivo
-
-Convertirme en un ingeniero capaz de desarrollar soluciones tecnológicas que generen impacto en la sociedad.
-
-## 🚀 Tecnologías y Herramientas
 
 ---
 
-# 🏆 Logros en GitHub
+# 👨‍💻 Sobre mí
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rdiaz94&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+🎓 Soy estudiante de **Ingeniería de Sistemas Computacionales** apasionado por la tecnología y el desarrollo de software.
 
-### 💻 Lenguajes de Programación
+Actualmente me encuentro fortaleciendo mis conocimientos en:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+- 💻 Desarrollo de Software
+- 🗄️ Bases de Datos
+- ☁️ Cloud Computing
+- 🔐 Ciberseguridad
+- 🤖 Inteligencia Artificial
+- 📊 Ciencia de Datos
+
+Me gusta desarrollar proyectos que me permitan aprender nuevas tecnologías y resolver problemas mediante soluciones innovadoras.
+
+---
+
+# 🚀 Mi objetivo
+
+Convertirme en un ingeniero capaz de diseñar, desarrollar e implementar soluciones tecnológicas que generen un impacto positivo en la sociedad.
+# 🚀 Tecnologías y Herramientas
+
+### 💻 Lenguajes
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
 ### 🌐 Desarrollo Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 </p>
 
 ### 🗄️ Bases de Datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ### ⚙️ Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker"/>
 </p>
 
-### 🖥️ Sistemas Operativos
+### 💻 Sistemas Operativos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
+<img src="https://skillicons.dev/icons?i=linux,windows"/>
 </p>
 
 ### 📚 Actualmente aprendiendo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,tensorflow" />
+<img src="https://skillicons.dev/icons?i=aws,azure"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-00C2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-1E90FF?style=for-the-badge"/>
 </p>
+# 🎯 Objetivos
 
+- ✅ Dominar Python
+- ✅ Mejorar en Java
+- 🔄 Aprender Cloud Computing
+- 🔄 Especializarme en Ciberseguridad
+- 🔄 Desarrollar proyectos con Inteligencia Artificial
+- 🔄 Contribuir a proyectos Open Source
+- 🔄 Obtener certificaciones tecnológicas
+████████████████████████████
+
+PORTADA
+
+👋 Hola soy Royer
+
+Typing Animation
+
+Sobre mí
+
+Tecnologías
+
+Objetivos
+
+████████████████████████████
 
 
