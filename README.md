@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="portada.png" width="100%" alt="Banner de Royer Díaz Montoya"/>
+  <img src="portada.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">
@@ -7,20 +7,20 @@
 </h1>
 
 <h3 align="center">
-🎓 Estudiante de Ingeniería de Sistemas Computacionales • Perú 🇵🇪
+🎓 Estudiante de Ingeniería de Sistemas Computacionales
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hola,+soy+Royer+Diaz+Montoya;Estudiante+de+Ingenieria+de+Sistemas;Desarrollador+Full+Stack+en+formacion;Python+-+Java+-+SQL+Server;Cloud+-+IA+-+Ciberseguridad" />
+🇵🇪 Cajamarca, Perú
 </p>
 
 ---
 
 # 👨‍💻 Sobre mí
 
-🎓 Soy estudiante de **Ingeniería de Sistemas Computacionales** apasionado por la tecnología y el desarrollo de software.
+Soy estudiante de **Ingeniería de Sistemas Computacionales**, apasionado por aprender nuevas tecnologías y desarrollar soluciones que resuelvan problemas reales.
 
-Actualmente me encuentro fortaleciendo mis conocimientos en:
+Actualmente enfoco mi aprendizaje en:
 
 - 💻 Desarrollo de Software
 - 🗄️ Bases de Datos
@@ -29,13 +29,13 @@ Actualmente me encuentro fortaleciendo mis conocimientos en:
 - 🤖 Inteligencia Artificial
 - 📊 Ciencia de Datos
 
-Me gusta desarrollar proyectos que me permitan aprender nuevas tecnologías y resolver problemas mediante soluciones innovadoras.
+Siempre estoy buscando nuevos desafíos para fortalecer mis habilidades técnicas y crecer como profesional.
 
 ---
 
-# 🚀 Mi objetivo
+# 🎯 Mi objetivo
 
-Convertirme en un ingeniero capaz de diseñar, desarrollar e implementar soluciones tecnológicas que generen un impacto positivo en la sociedad.
+Convertirme en un ingeniero capaz de diseñar soluciones tecnológicas innovadoras, seguras y eficientes que generen un impacto positivo en la sociedad.
 # 🚀 Tecnologías y Herramientas
 
 ### 💻 Lenguajes
