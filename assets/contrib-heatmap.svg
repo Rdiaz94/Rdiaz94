@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="145" viewBox="0 0 860 145" role="img" aria-labelledby="title">
+<title id="title">Calendario de contribuciones pendiente de primera ejecución</title>
+<rect width="100%" height="100%" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="38" fill="#c9d1d9" font-size="14" font-family="monospace">Rdiaz94 · CONTRIBUTION HEATMAP</text>
+<text x="24" y="66" fill="#8b949e" font-size="12">El calendario real se generará en la primera ejecución de GitHub Actions.</text>
+<text x="24" y="91" fill="#8b949e" font-size="12">No se muestran cifras de actividad inventadas.</text>
+<g fill="#161b22"><rect x="24" y="108" width="10" height="10" rx="2"/><rect x="39" y="108" width="10" height="10" rx="2"/><rect x="54" y="108" width="10" height="10" rx="2"/><rect x="69" y="108" width="10" height="10" rx="2"/><rect x="84" y="108" width="10" height="10" rx="2"/></g>
+</svg>

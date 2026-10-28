@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="250" viewBox="0 0 370 250" role="img" aria-labelledby="title">
+<title id="title">ASCII portrait pendiente de personalización</title>
+<rect width="100%" height="100%" rx="8" fill="#0d1117" stroke="#30363d"/>
+<g fill="#8b949e" font-family="monospace" font-size="11">
+<text x="14" y="25">+----------------------------------+</text>
+<text x="14" y="47">|      ROYER@GITHUB:~$ WHOAMI      |</text>
+<text x="14" y="69">|                                  |</text>
+<text x="14" y="91">|  Retrato ASCII personalizado     |</text>
+<text x="14" y="113">|  pendiente de una fotografía.    |</text>
+<text x="14" y="135">|                                  |</text>
+<text x="14" y="157">|  No se ha inventado una imagen.  |</text>
+<text x="14" y="179">|                                  |</text>
+<text x="14" y="201">+----------------------------------+</text>
+</g>
+</svg>
