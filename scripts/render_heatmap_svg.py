@@ -19,9 +19,9 @@ def main():
         raise RuntimeError("El JSON no contiene días de contribución.")
 
     today = date.today()
-    start = today - timedelta(days=370)
+    start = today - timedelta(days=364)
     start -= timedelta(days=(start.weekday() + 1) % 7)
-    days = [start + timedelta(days=i) for i in range(371)]
+    days = [start + timedelta(days=i) for i in range((today - start).days + 1)]
     cell, gap, left, top = 11, 4, 42, 35
     cols = (len(days) + 6) // 7
     width, height = left + cols * (cell + gap) + 16, 145
