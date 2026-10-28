@@ -33,10 +33,12 @@ jobs:
         run: python scripts/fetch_contributions.py
       - name: Render animated SVG heatmap
         run: python scripts/render_heatmap_svg.py
+      - name: Generate animated ASCII avatar
+        run: python scripts/make_ascii_svg.py
       - name: Generate profile info card
         run: python scripts/make_info_card.py
       - name: Commit generated assets
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh animated contribution graph [skip ci]"
-          file_pattern: "data/contributions.json assets/contrib-heatmap.svg assets/info-card.svg"
+          file_pattern: "data/contributions.json assets/contrib-heatmap.svg assets/info-card.svg assets/royer-ascii.svg"
