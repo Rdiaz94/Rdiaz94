@@ -1,3 +1,4 @@
+import os; os.makedirs("../data", exist_ok=True)
 import json, re, requests
 from bs4 import BeautifulSoup
 USER = "Rdiaz94"
