@@ -1,14 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Royer%20D%C3%ADaz&fontSize=64&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%3E%20Ingenier%C3%ADa%20de%20Sistemas%20Computacionales&descAlignY=60&descSize=18" width="100%"/>
+<img src="./hero.svg" width="860" alt="Royer Díaz" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=800&lines=%3E+Hola+mundo...+soy+Royer+D%C3%ADaz;%3E+Servidores+%7C+Redes+%7C+Backend+%7C+Big+Data;%3E+Virtualizo+lo+que+otros+solo+instalan;%3E+Insert+coin+to+continue..." alt="Typing SVG" />
-</a>
+<br/><br/>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Mis contribuciones" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Rdiaz94/Rdiaz94/output/github-snake-dark.svg" width="860" alt="Snake" />
+
+<br/><br/>
+
+<h3><code>royer@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./server-rack.svg" width="370" alt="Homelab" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Info" /></td>
+  </tr>
+</table>
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=Rdiaz94&label=PLAYER+VISITS&color=00ff41&style=for-the-badge)
+![Visitas](https://komarev.com/ghpvc/?username=Rdiaz94&label=PLAYER+VISITS&color=00ff41&style=for-the-badge&labelColor=0d1117)
 ![Seguidores](https://img.shields.io/github/followers/Rdiaz94?style=for-the-badge&logo=github&color=00ff41&labelColor=0d1117)
 
 </div>
@@ -17,19 +32,17 @@
 
 ## 🕹️ `PLAYER_1.profile`
 
-```python
-class Royer:
-    def __init__(self):
-        self.nombre      = "Royer Díaz"
-        self.clase       = "Ingeniero de Sistemas en construcción 🛠️"
-        self.nivel       = "Nivel secreto: universidad y ciclo clasificados 🤫"
-        self.stack       = ["Python", "Java", "Spring Boot", "Angular", "SQL Server"]
-        self.infra       = ["Windows Server 2025", "CentOS", "Kali Linux", "Zimbra", "Samba"]
-        self.aprendiendo = ["Big Data", "Arquitectura de servidores", "Seguridad informática"]
-        self.mision      = "Convertir cada laboratorio en un proyecto real"
-
-    def saludar(self):
-        return "¡Gracias por visitar mi perfil! 🎮"
+```diff
++ class Royer:
++     nombre      = "Royer Díaz"
++     clase       = "Ingeniero de Sistemas en construcción 🛠️"
++     nivel       = "Nivel secreto: universidad y ciclo clasificados 🤫"
++     stack       = ["Python", "Java", "Spring Boot", "Angular", "SQL Server"]
++     infra       = ["Windows Server 2025", "CentOS", "Kali Linux", "Zimbra", "Samba"]
++     aprendiendo = ["Big Data", "Arquitectura de servidores", "Seguridad informática"]
++     mision      = "Convertir cada laboratorio en un proyecto real"
++
++ >>> ¡Gracias por visitar mi perfil! 🎮
 ```
 
 ---
@@ -82,8 +95,6 @@ class Royer:
 | 📁 **Servidor de archivos** | Recursos compartidos entre sistemas Windows y Linux | `Samba` `CentOS` |
 | 🕵️ **Laboratorio de seguridad** | Entorno aislado para practicar pruebas de seguridad de forma ética | `Kali Linux` |
 
-> 🔗 Cuando subas cada proyecto a un repositorio, enlázalo en la columna "Misión".
-
 ---
 
 ## 📊 `STATS.exe`
@@ -93,20 +104,7 @@ class Royer:
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rdiaz94&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdiaz94&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Rdiaz94&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=00ff41&dates=8b949e" />
-
 </div>
-
----
-
-## 🎮 `SIDE_QUESTS.txt`
-
-- 🐍 Automatizando procesos y analizando datos con Python
-- 🗄️ Diseñando bases de datos y consultas en SQL Server
-- 🧪 Levantando laboratorios virtuales con distintos sistemas operativos
-- ☕ Construyendo aplicaciones con Spring Boot y Angular
 
 ---
 

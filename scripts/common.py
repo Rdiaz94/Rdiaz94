@@ -1,0 +1,8 @@
+BG = "#0d1117"
+GREEN = "#00ff41"
+GREEN_DIM = "#1f9d3a"
+AMBER = "#ffb000"
+CYAN = "#58d6ff"
+TEXT = "#c9d1d9"
+MUTED = "#6e7681"
+FONT = "'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace"
